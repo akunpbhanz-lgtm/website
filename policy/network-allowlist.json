@@ -1,0 +1,11 @@
+{
+  "domains": [
+    "github.com",
+    "raw.githubusercontent.com",
+    "deb.debian.org",
+    "pypi.org",
+    "files.pythonhosted.org",
+    "nodejs.org",
+    "readthedocs.io"
+  ]
+}
