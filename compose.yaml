@@ -1,0 +1,10 @@
+services:
+  runner:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.runner
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    stdin_open: true
+    tty: true
